@@ -1,0 +1,8 @@
+This is just Jetty Http Client 9.0.X repackaged, plus a single class.
+Jetty rocks, you should use it. http://www.eclipse.org/jetty/
+
+Jetty is licensed under AL2 and EPL:
+http://www.eclipse.org/jetty/licenses.php
+
+The tiny addition I made (org.skife.jetty.v9.ThisIsNotJetty) is
+licensed under AL2.
