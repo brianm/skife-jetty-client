@@ -27,7 +27,8 @@
         <connection>scm:git:git://github.com/brianm/skife-jetty-client.git</connection>
         <developerConnection>scm:git:git@github.com:brianm/skife-jetty-client.git</developerConnection>
         <url>http://github.com/brianm/skife-jetty-client/tree/master</url>
-    </scm>
+      <tag>HEAD</tag>
+  </scm>
 
     <properties>
         <project.jdk6.home>${env.JAVA6_HOME}</project.jdk6.home>
