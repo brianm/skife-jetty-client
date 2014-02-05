@@ -33,6 +33,7 @@
         <project.jdk6.home>${env.JAVA6_HOME}</project.jdk6.home>
         <project.build.targetJdk>1.6</project.build.targetJdk>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <basepom.check.skip-basic>true</basepom.check.skip-basic>
     </properties>
 
     <build>
