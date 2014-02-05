@@ -3,7 +3,7 @@
     <groupId>org.skife.jetty.v9</groupId>
     <artifactId>http-client</artifactId>
     <name>http-client</name>
-    <version>9.1.1-SNAPSHOT</version>
+    <version>9.1.1</version>
     <packaging>jar</packaging>
     <description>
       Jetty Http Client, repackaged to namespace that allows use in
@@ -27,7 +27,8 @@
       <connection>scm:git:git://github.com/brianm/skife-jetty-client.git</connection>
       <developerConnection>scm:git:git@github.com:brianm/skife-jetty-client.git</developerConnection>
       <url>https://github.com/brianm/skife-jetty-client/tree/master</url>
-    </scm>
+      <tag>http-client-9.1.1</tag>
+  </scm>
 
     <properties>
         <project.jdk6.home>${env.JAVA6_HOME}</project.jdk6.home>
