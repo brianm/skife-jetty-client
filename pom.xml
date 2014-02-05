@@ -3,7 +3,7 @@
     <groupId>org.skife.jetty.v9</groupId>
     <artifactId>http-client</artifactId>
     <name>http-client</name>
-    <version>9.1.2.v20130625.2-SNAPSHOT</version>
+    <version>9.1.2.v20130625.3-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>
       Jetty Http Client, repackaged to namespace that allows use in
