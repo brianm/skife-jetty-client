@@ -27,7 +27,6 @@
         <connection>scm:git:git://github.com/brianm/skife-jetty-client.git</connection>
         <developerConnection>scm:git:git@github.com:brianm/skife-jetty-client.git</developerConnection>
         <url>http://github.com/brianm/skife-jetty-client/tree/master</url>
-      <tag>http-client-9.1.1.v20140108.6</tag>
   </scm>
 
     <properties>
