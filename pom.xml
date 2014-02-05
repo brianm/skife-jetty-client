@@ -2,8 +2,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.skife.jetty.v9</groupId>
     <artifactId>http-client</artifactId>
-    <name>jDBI</name>
-    <version>9.0.5.v20130625-SNAPSHOT</version>
+    <name>http-client</name>
+    <version>9.1.1.v20130625.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>
       Jetty Http Client, repackaged to namespace that allows use in
